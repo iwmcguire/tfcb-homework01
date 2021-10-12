@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HOMEWORK-01 README
 
 ## What will be demonstrated in this file:
@@ -9,15 +8,12 @@
 - Tables
 
 ### Link to the Homework Repository:
-[Homework01](https://github.com/iwmcguire/tfcb-homework01/tree/master)
+_[Homework01](https://github.com/iwmcguire/tfcb-homework01/tree/master)_
 
 ### Table of Images from Homework:
-| Names | Images |
+| **Species Names** | Images |
 | -- | -- |
 | _Acanthomyrmex ferox_ | <img src="images/casent_0901788_acanthomyrmex_ferox_p-1-high.jpg" style="width:150px;"/> |
 | _Amponotus darwinii_ | <img src="images/casent_0191696_camponotus_darwinii.jpg" style="width:150px;"/> |
 | _Cataglyphis fortis_ | <img src="images/casent_0906296_cataglyphis_fortis_p-1-high.jpg" style="width:150px;"/> |
 | _Hytidoponera metallica_ | <img src="images/casent_0172345_rhytidoponera_metallica.jpg" style="width:150px;"/> | 
-=======
-# tfcb-homework01
->>>>>>> tfcb-homework01/main
