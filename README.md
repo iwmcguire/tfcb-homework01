@@ -20,7 +20,7 @@
 
 ### Link to the Homework Repository:
 _[Homework01](https://github.com/iwmcguire/tfcb-homework01/tree/master)_<br>
-_[Survay Data](https://github.com/iwmcguire/tfcb-homework01/blob/master/data/survay_data_modified.tsv)_
+_[Survey Data](https://github.com/iwmcguire/tfcb-homework01/blob/master/data/survay_data_modified.tsv)_
 
 ### Table of Images from Homework:
 | **Species Names** | Images |
