@@ -7,8 +7,20 @@
 - Embedded images
 - Tables
 
+## List options
+**Numerical list**
+1. first
+2. second
+3. third
+
+**Bullet list**
+- first
+- second
+- third
+
 ### Link to the Homework Repository:
 _[Homework01](https://github.com/iwmcguire/tfcb-homework01/tree/master)_
+_[Survay Data](https://github.com/iwmcguire/tfcb-homework01/blob/master/data/survay_data_modified.tsv)_
 
 ### Table of Images from Homework:
 | **Species Names** | Images |
